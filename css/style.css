@@ -5,6 +5,8 @@
 * License: https://templatemag.com/license/
 */
 
+
+
 body {
   background-color: #f2f2f2;
   font-family: "Lato";
@@ -130,6 +132,7 @@ hr {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
 }
 
 #headerwrap h1 {
