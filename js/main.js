@@ -1,3 +1,8 @@
+
+
+
+
+
 jQuery(document).ready(function( $ ) {
 
 	if($('#canvas').length) {
